@@ -1,0 +1,24 @@
+.title {
+    width: 100%;
+    text-align: center;
+    font-size: 3rem;
+    color: #2A77AE;
+    margin-bottom: 50px;
+    
+    
+  }
+  
+  .panel-body {
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  .col-md-4 {
+    text-align: center;
+  }
+  
+  
+  .panel-heading {
+    padding-top: 50px;
+  
+  }
