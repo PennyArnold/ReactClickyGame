@@ -100,9 +100,7 @@ class App extends Component {
     this.setState({characters: sorted}, function() {
       console.log(this.state.characters)
     })
-  
-    
-  }
+   }
 
   
     // return a card for each character that we have in the json

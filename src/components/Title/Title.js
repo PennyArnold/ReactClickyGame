@@ -1,8 +1,8 @@
 import React from "react";
 import "./Title.css";
 
-// const Title = props => <h1 className="title">{props.children}</h1>;
-const Title = props =>  <div className="panel panel-primary">
+const Title = props => <h1 className="title">{props.children}
+{/* const Title = props => */}  <div className="panel panel-primary">
                             <div className="panel-heading panel-primary">
                                 <div className="row">
                                     <div className="col-md-4">Clicky Game!</div>
@@ -14,6 +14,6 @@ const Title = props =>  <div className="panel panel-primary">
                             <div className="panel-body">
                                 Click on an image to earn points, but don't click on any more than once!
                             </div>
-                            </div>;
+                            </div></h1>
  
 export default Title;
